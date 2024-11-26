@@ -1,0 +1,10 @@
+{
+    "groups": {
+        "admin": {
+            "users": ["alex@minio.io"]
+        },
+        "eng": {
+            "users": ["alex@minio.io", "joe@minio.io", "beau@minio.io"]
+        }
+    }
+}
