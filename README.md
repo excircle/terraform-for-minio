@@ -41,4 +41,4 @@ docker compose up -d
 
 # Instructions For Using Terraform
 
-For specifics on using the above mentioned modules, please see the README file in `./terraform/`
+For specifics on using the above mentioned modules, please see the [README](https://github.com/excircle/terraform-for-minio/blob/main/terraform/README.md) file in `./terraform/`
