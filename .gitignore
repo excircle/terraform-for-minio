@@ -1,4 +1,8 @@
 minio-data1
 minio-data2
-terrraform/.terraform
+.terrafor*
+.terraform/**
+.terraform.lock.hcl
+terraform/.terraform/**
 terrraform/.terraform.lock.hcl
+

@@ -1,6 +1,8 @@
 locals {
   groups_data = jsondecode(file("01-user-mappings.json"))
   buckets_data = jsondecode(file("02-buckets-data.json"))
+
+  # Policy objects
   policies = [
     {
       name   = "admin_policy_one"

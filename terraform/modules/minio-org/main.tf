@@ -1,5 +1,5 @@
 module "org-buckets" {
-  source = "../org-buckets"
+  source = "../org-buckets" # Ideally hosted remotely (github.com/my-org/org-bucket-module)
 
   buckets = local.buckets
 }
