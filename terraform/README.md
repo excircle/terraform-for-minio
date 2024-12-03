@@ -11,7 +11,7 @@ The modules featured inside of the `terraform` directory offer 4 control mechani
 | Mechanics | Description |
 | - | - |
 | User Mapping Schema | Contained within `01-user-mappings.json` |
-| Bucket Schema | Container within `02-buckets-data.json` |
+| Bucket Schema | Contained within `02-buckets-data.json` |
 | Locals Formatting | `locals.tf` file contains data formatted data. Optimized for use with modules. |
 | Terraform Policy Documents | MinIO policies formatted using Terraform document formatting |
 
